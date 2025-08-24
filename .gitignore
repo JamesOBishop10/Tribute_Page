@@ -1,0 +1,28 @@
+# Node modules (if you ever add JS tooling)
+node_modules/
+
+# VS Code settings
+.vscode/
+
+# System files
+Thumbs.db
+.DS_Store
+
+# OS-specific line ending backups
+*.bak
+*.tmp
+
+# Logs and temp files
+*.log
+*.cache
+
+# Compiled or generated files
+dist/
+build/
+
+# Ignore PDF if it's not meant to be versioned
+*.pdf
+
+# Optional: Ignore image backups or raw assets
+*.psd
+*.xcf
